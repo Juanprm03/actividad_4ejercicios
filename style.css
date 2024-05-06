@@ -1,0 +1,17 @@
+body{
+    background-color: cadetblue;
+    color: white;
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    align-items: center ;
+    text-align: center;
+}
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 10px;
+}
